@@ -24,8 +24,8 @@ jobs:
         id: google-step
         with:
           provider: google
-          lang: zh-en
-          source: 步骤
+          lang: en-zh-CN
+          source: Hello
       - name: Print the result
         run: echo "Translation is '${{ steps.google-step.outputs.text }}'"
         shell: sh
