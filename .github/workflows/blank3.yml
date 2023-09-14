@@ -25,7 +25,7 @@ jobs:
         with:
           provider: google
           lang: zh-CN,fr
-          source: /zh-CN
+          source: /zh-CN/ru-he-jiao-yi/wen-ti-1.md
       - name: Print the result
         run: echo "Translation is '${{ steps.google-step.outputs.text }}'"
         shell: sh
