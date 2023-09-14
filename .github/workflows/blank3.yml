@@ -20,12 +20,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: fabasoad/translation-action@main
+      - uses: eaminhu/translation-action@main
         id: google-step
         with:
           provider: google
-          lang: en-fr
-          source: Hello world
+          lang: zh-CN,fr
+          source: 你好世界
       - name: Print the result
         run: echo "Translation is '${{ steps.google-step.outputs.text }}'"
         shell: sh
