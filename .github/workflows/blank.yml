@@ -23,10 +23,10 @@ jobs:
 
     - name: Translate files
       run: |
-        for file in $(find zh-CN -type f -name "*.md"); do
-          target_dir="en-US${file#zh-CN}"
+        for file in $(find en -type f -name "*.md"); do
+          target_dir="ja${file#zh-CN}"
           mkdir -p $(dirname "$target_dir")
-          python translate.py "$file" "$target_dir" "en"
+          python translate.py "$file" "$target_dir" "ja"
         done
     - name: list files
       run: ls
