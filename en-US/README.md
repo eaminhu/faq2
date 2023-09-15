@@ -1,5 +1,7 @@
-# who are we? ?
+# What is decentralized finance (DeFi)?
 
-1. **Cooperation and Coordination**: If you are working on a collaborative project, it is best to coordinate your work with other project members to avoid conflicts. Make sure everyone knows when to push and pull to avoid overwriting each other's changes.
+### What is decentralized finance (DeFi)? <a href="#header-2" id="header-2"></a>
 
-Whichever method you choose, handle it with care to ensure you don't lose any important changes or destroy the integrity of your project. If you're not sure what to do, contact other contributors or maintainers of the project for help and guidance.
+Decentralized finance ("DeFi" for short) is an ecosystem of financial applications built on the [blockchain](https://academy.binance.com/zh/articles/how-does-blockchain-work) network . Specifically, the term “decentralized finance” refers to the creation of an ecosystem of financial services that is open source, permissionless, and transparent. This ecosystem is open to everyone and operates without authorization from any central authority. Users have full control over assets and can use [Peer-to-Peer (P2P)](https://academy.binance.com/zh/articles/peer-to-peer-networks-explained), [Decentralized Applications (Dapp) ](https://academy.binance.com/glossary/decentralized-application) to interact with the ecosystem. The core advantage of DeFi is that financial services are within reach, especially for people who are isolated from the current financial system. Another potential advantage of DeFi is that it is built on a modular framework - DeFi applications with extremely [interoperability] (https://academy.binance.com/glossary/interoperability) on public blockchains can Create new financial markets, products and services.
+
+This article will introduce the basic knowledge of DeFi, including potential applications, advantages and disadvantages, etc.

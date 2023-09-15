@@ -1,12 +1,12 @@
 # Table of contents
 
-* [who are we? ? ](README.md)
+* [What is decentralized finance (DeFi)? ](README.md)
 
 ## 😁 How to trade
 
-* [👭 Question 1](ru-he-jiao-yi/wen-ti-1.md)
-* [🧑🎨 Question 2](ru-he-jiao-yi/wen-ti-2.md)
+* [👭 What are the main advantages of DeFi? ](ru-he-jiao-yi/defi-de-zhu-yao-you-shi-shi-shi-mo.md)
+* [🧑🎨 What are the potential use cases of DeFi? ](ru-he-jiao-yi/defi-you-na-xie-qian-zai-yong-li.md)
 
 ***
 
-* [👩🏫 Question 3](wen-ti-3.md)
+* [👩🏫 What role do smart contracts play in DeFi? ](zhi-neng-he-yue-zai-defi-zhong-ban-yan-shi-mo-jiao-se.md)
