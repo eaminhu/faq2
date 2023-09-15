@@ -16,8 +16,8 @@ Pour une explication détaillée du thème de la blockchain et du secteur bancai
 marché décentralisé
 De telles applications peuvent être difficiles à évaluer et appartiennent au secteur DeFi avec l’espace d’innovation financière le plus large.
 
-L’application DeFi la plus importante parmi elles est sans doute l’échange décentralisé (DEX). Grâce à ces plateformes, les utilisateurs peuvent échanger des actifs numériques directement sans avoir besoin de détenir des fonds via un intermédiaire de confiance (plateforme de trading). À l'aide de contrats intelligents, différents utilisateurs peuvent effectuer des transactions directement via leur portefeuille personnel.
-Les échanges décentralisés nécessitent moins de maintenance, les frais de transaction sont donc bien inférieurs à ceux des échanges centralisés.
+可以说，其中最重要的DeFi应用程序非去中心化交易平台(DEX)莫属。通过这些平台，用户可以直接交易数字资产，无需通过受信任的中间机构（交易平台）来持有资金。借助智能合约，不同用户通过个人钱包即可直接完成交易。
+去中心化交易平台所需的维护工作较少，因此交易费用远低于中心化交易平台。
 
 La technologie blockchain est également souvent utilisée pour l’émission et l’autonomisation de divers instruments financiers traditionnels. Ces applications fonctionnent de manière décentralisée, éliminant ainsi le besoin de dépositaires et éliminant complètement les points de défaillance uniques.
 
