@@ -1,5 +1,5 @@
-<h1>DeFi の潜在的なユースケースは何ですか? </h1>
+<h1>What are the potential use cases for DeFi? </h1>
 <h3>&amp;#x20;&lt;a href=&quot;#header-4&quot; id=&quot;header-4&quot;&gt;&lt;/a&gt;</h3>
-<h4>融資 &lt;a href=&quot;#borrowing-and-lending&quot; id=&quot;borrowing-and-lending&quot;&gt;&lt;/a&gt;</h4>
-<p>オープン レンディング プロトコルは、DeFi エコシステムで最も人気のあるアプリケーションの 1 つです。従来の信用システムと比較して、オープン分散型融資には、即時取引決済、担保付きデジタル資産のサポート、信用審査なし、将来の標準化の可能性など、多くの利点があります。 </p>
-<p>融資サービスはパブリック ブロックチェーン上に構築されており、必要な信頼レベルを最小限に抑え、暗号検証方法によって保護されています。ブロックチェーンベースの融資市場は、取引相手のリスクを軽減し、借入コストを削減しながら融資を迅速化し、対象者を効果的に拡大します。 </p>
+<h4>Lending &lt;a href=&quot;#borrowing-and-lending&quot; id=&quot;borrowing-and-lending&quot;&gt;&lt;/a&gt;</h4>
+<p>The Open Lending Protocol is one of the most popular applications in the DeFi ecosystem. Compared with the traditional credit system, open decentralized lending has many advantages, including instant transaction settlement, support for collateralized digital assets, no credit review, and the possibility of standardization in the future. </p>
+<p>The lending service is built on a public blockchain, minimizing the level of trust required and protected by cryptographic verification methods. The blockchain-based lending market reduces counterparty risks, speeds up lending while cutting borrowing costs, and effectively expands the audience. </p>

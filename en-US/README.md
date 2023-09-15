@@ -1,17 +1,17 @@
-<h1>分散型金融 (DeFi) の兄貴分とは何ですか</h1>
-<h3>分散型金融 (DeFi) とは何ですか? &lt;a href=&quot;#header-2&quot; id=&quot;header-2&quot;&gt;&lt;/a&gt;</h3>
-<ブロック引用>
-<p>初めて GitHub 同期をセットアップし、まだ GitHub アカウントをリンクしていない場合は、</p>
+<h1>What is the big brother of decentralized finance (DeFi)</h1>
+<h3>What is decentralized finance (DeFi)? &lt;a href=&quot;#header-2&quot; id=&quot;header-2&quot;&gt;&lt;/a&gt;</h3>
+<blockquote>
+<p>If you're setting up GitHub sync for the first time and haven't already linked a GitHub account, you</p>
 </blockquote>
-<h2>マークダウン タグをテストする</h2>
+<h2>Test markdown tag</h2>
 <ul>
-<li>[ ] だぁぁぁ</li>
-<li>[ ] オップ</li>
+<li>[ ] daaaaa</li>
+<li>[ ] opp</li>
 <li>[ ]java</li>
 <li>[ ] javawscript</li>
 <li>[ ] c#</li>
-<li>[ ] 素早く</li>
-<li>[ ] パイソン</li>
+<li>[ ] swiff</li>
+<li>[ ] python</li>
 </ul>
-<p>&amp;#x20;分散型金融 (略して「DeFi」) は、<a href="https://academy.binance.com/zh/articles/how-does-blockchain-work"> 領域に構築されていますブロックチェーン</a>ネットワーク上の金融アプリケーションのエコシステム。具体的には、「分散型金融」という用語は、オープンソース、パーミッションレス、透明性のある金融サービスのエコシステムの構築を指します。このエコシステムは誰にでも開かれており、中央当局の許可なしに運営されています。ユーザーは自分の資産を完全に制御でき、<a href="https://academy.binance.com/zh/articles/peer-to-peer-networks-explained">ピアツーピア (P2P)</ を使用できます。 a>、<a href="https://academy.binance.com/glossary/decentralized-application">分散型アプリケーション (Dapps)</a> はエコシステムと対話します。 DeFi の主な利点は、特に現在の金融システムから孤立している人々にとって、金融サービスが手の届くところにあることです。 DeFi のもう 1 つの潜在的な利点は、モジュラー フレームワークに基づいて構築されており、パブリック ブロックチェーン間で非常に相互運用性が高いことです。a>DeFi アプリケーションは、まったく新しい金融市場、製品、サービスを生み出すことができます。 </p>
-<p>この記事では、応用可能性やメリット・デメリットなど、DeFi の基礎知識を紹介します。 </p>
+<p>&amp;#x20;Decentralized finance ("DeFi" for short) is built on the <a href="https://academy.binance.com/zh/articles/how-does-blockchain-work"> area An ecosystem of financial applications on top of the blockchain</a>network. Specifically, the term “decentralized finance” refers to the creation of an ecosystem of financial services that is open source, permissionless, and transparent. This ecosystem is open to everyone and operates without authorization from any central authority. Users have full control over their assets and can use <a href="https://academy.binance.com/zh/articles/peer-to-peer-networks-explained">Peer-to-Peer (P2P)</a>, <a href="https://academy.binance.com/glossary/decentralized-application">Decentralized applications (Dapps)</a> interact with the ecosystem. The core advantage of DeFi is that financial services are within reach, especially for people who are isolated from the current financial system. Another potential advantage of DeFi is that it is built on a modular framework - extremely interoperable among public blockchains. a>DeFi applications can create entirely new financial markets, products and services. </p>
+<p>This article will introduce the basic knowledge of DeFi, including potential applications, advantages and disadvantages, etc. </p>
