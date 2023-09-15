@@ -37,7 +37,6 @@ jobs:
 
     - name: Make changes and commit
       run: |
-        echo "Making changes" >> example.txt
-        git add example.txt
-        git commit -m "Add changes to example.txt"
+        git add .
+        git commit -m "Add Translate files to folder"
         git push
