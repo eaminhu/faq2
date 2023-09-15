@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is decentralized finance (DeFi)? ](README.md)
+* [What is Decentralized Finance (DeFi) Big Brother](README.md)
 
 ## 😁 How to trade
 
