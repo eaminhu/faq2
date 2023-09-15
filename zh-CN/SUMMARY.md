@@ -10,3 +10,4 @@
 ***
 
 * [👩🏫 智能合约在DeFi中扮演什么角色？](zhi-neng-he-yue-zai-defi-zhong-ban-yan-shi-mo-jiao-se.md)
+* [DeFi有哪些潜在用例？](defi-you-na-xie-qian-zai-yong-li.md)
