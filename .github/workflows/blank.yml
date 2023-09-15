@@ -17,17 +17,15 @@ jobs:
       with:
         python-version: 3.x
 
-    - name: Install dependencies & mistune
+    - name: Install dependencies
       run: pip install deep-translator
-           pip install mistune
 
     - name: Translate files
       run: |
-        target_lang='en'
         for file in $(find zh-CN -type f -name "*.md"); do
-          target_dir="$target_lang${file#zh-CN}"
+          target_dir="en-US${file#zh-CN}"
           mkdir -p $(dirname "$target_dir")
-          python translate.py "$file" "$target_dir" "$target_lang"
+          python translate.py "$file" "$target_dir"
         done
     - name: list files
       run: ls
@@ -39,7 +37,7 @@ jobs:
 
     - name: Make changes and commit
       run: |
-        git pull origin master
+        git pull
         git add .
         git commit -m "Add Translate files to folder"
         git push
