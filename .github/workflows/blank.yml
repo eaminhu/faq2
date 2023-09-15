@@ -23,7 +23,7 @@ jobs:
 
     - name: Translate files
       run: |
-        target_lang='ru'
+        target_lang='en'
         for file in $(find zh-CN -type f -name "*.md"); do
           target_dir="$target_lang${file#zh-CN}"
           mkdir -p $(dirname "$target_dir")
