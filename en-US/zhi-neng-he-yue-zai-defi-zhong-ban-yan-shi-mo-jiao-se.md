@@ -4,7 +4,7 @@
 
 ### What role do smart contracts play in DeFi? <a href="#header-6" id="header-6"></a>
 
-Most existing and potential decentralized finance applications involve the creation and execution of smart contracts. While regular contracts spell out the relationships between the different entities in the contract through legal terms, smart contracts use computer code.
+Most existing and potential decentralized finance applications involve the creation and execution of smart contracts. While regular contracts spell out the relationships between the different entities in the contract through legalese, smart contracts use computer code.
 
 The terms in a smart contract are written in computer code, and running the code makes them effective. Many business processes that originally required manual supervision can now be executed automatically, ensuring reliability.
 

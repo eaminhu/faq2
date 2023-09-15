@@ -10,3 +10,4 @@
 ***
 
 * [👩🏫 What role do smart contracts play in DeFi? ](zhi-neng-he-yue-zai-defi-zhong-ban-yan-shi-mo-jiao-se.md)
+* [What are the potential use cases for DeFi? ](defi-you-na-xie-qian-zai-yong-li.md)
