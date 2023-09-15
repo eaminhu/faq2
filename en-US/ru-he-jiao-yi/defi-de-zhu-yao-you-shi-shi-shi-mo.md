@@ -1,15 +1,8 @@
-# 👭 What are the main advantages of DeFi?
-
-### What are the main advantages of DeFi? <a href="#header-3" id="header-3"></a>
-
-Traditional finance relies on banks and other institutions as intermediaries, and also requires courts to provide arbitration. &#x20;
-
-DeFi applications can directly skip intermediaries and arbitration institutions. The code can provide solutions to various disputes that may arise, and users can also have full control over their own funds. This approach reduces the cost of providing and using products, leading to a more harmonious financial system.
-
-New financial services deployed on the blockchain eliminate single points of failure. Data is recorded in the blockchain and widely distributed across thousands of [nodes](https://academy.binance.com/zh/articles/what-are-nodes), making review a complex endeavor and reducing Chances of Service Interruption.
-
-The framework for DeFi applications is built in advance, and deploying applications on it is very simple and completely reliable.
-
-Another important advantage of DeFi is to deepen the openness of the financial ecosystem and cover more groups who cannot enjoy financial services. The main way for the traditional financial system to obtain income is through intermediary institutions, which generally do not provide services to areas where low-income groups are located. However, DeFi can significantly cut costs, and low-income people can also benefit from various financial services.
-
-\
+<h1>👭 DeFi の主な利点は何ですか? </h1>
+<h3>DeFi の主な利点は何ですか? &lt;a href=&quot;#header-3&quot; id=&quot;header-3&quot;&gt;&lt;/a&gt;</h3>
+<p>従来の金融はメディアとして銀行やその他の機関に依存しており、裁判所による仲裁も必要です。 &amp;#x20;</p>
+<p>DeFi アプリケーションは、仲介機関や仲裁機関を直接スキップできます。このコードは、発生する可能性のあるさまざまな紛争に対する解決策を提供することができ、ユーザーは自分の資金を完全に管理することもできます。このアプローチにより、製品の提供と使用のコストが削減され、より調和のとれた金融システムが実現します。 </p>
+<p>ブロックチェーン上に導入された新しい金融サービスにより、単一障害点が排除されます。データはブロックチェーンに記録され、数千の<a href="https://academy.binance.com/zh/articles/what-are-nodes">ノード</a>に広く分散されるため、レビューは複雑な作業となります。サービスが中断される可能性が低くなります。 </p>
+<p>DeFi アプリケーションのフレームワークは事前に構築されており、その上にアプリケーションをデプロイするのは非常に簡単で、完全に信頼できます。 </p>
+<p>DeFi のもう 1 つの重要な利点は、金融エコシステムのオープン性を深め、金融サービスを享受できないより多くのグループをカバーできることです。従来の金融システムが収入を得る主な方法は仲介機関を通じてですが、通常、低所得者層が居住する地域にはサービスを提供しません。ただし、DeFiはコストを大幅に削減でき、低所得者もさまざまな金融サービスの恩恵を受けることができます。 </p>
+<p>\</p>

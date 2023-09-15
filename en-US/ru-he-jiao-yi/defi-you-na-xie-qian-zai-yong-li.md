@@ -1,21 +1,11 @@
-# 🧑🎨 What are the potential use cases of DeFi?
-
-### What are the potential use cases for DeFi? <a href="#header-4" id="header-4"></a>
-
-#### Borrowing <a href="#borrowing-and-lending" id="borrowing-and-lending"></a>
-
-The open lending protocol is one of the most popular applications in the DeFi ecosystem. Compared with traditional credit systems, open decentralized lending has many advantages, including instant transaction settlement, support for collateralized digital assets, no credit review, and possible standardization in the future.
-
-Lending services are built on a public blockchain, minimizing the level of trust required and protected by cryptographic verification methods. The blockchain-based lending market reduces counterparty risks, speeds up lending while cutting borrowing costs, and effectively expands the audience.
-
-#### Monetary Banking Services <a href="#monetary-banking-services" id="monetary-banking-services"></a>
-
-By definition, DeFi is a financial application, and currency banking services are a typical use case. These include the issuance, mortgages and insurance of [stablecoin](https://academy.binance.com/glossary/stablecoin).
-
-As the blockchain industry matures, the creation of stablecoins has attracted increasing attention. Stablecoins are typically digital currency assets pegged to real assets that can be transferred digitally with relative ease. The price of digital currencies can sometimes fluctuate wildly, but decentralized stablecoins can serve as digital cash for daily use, with issuance and monitoring free from central agencies.
-
-Mortgages are expensive and take a long time to disburse, mainly because they require many intermediaries to step in. With the advent of smart contracts, underwriting and legal fees may be significantly reduced.
-
-Insurance on the blockchain can skip intermediaries and spread risks through many participants. With the same service quality, the premiums that policyholders need to pay have been reduced.
-
-For a detailed explanation of the topic of blockchain and banking, we recommend reading ["How Blockchain Technology Will Impact the Banking Industry"](https://academy.binance.com/zh/articles/how-blockchain-technology-will -impact-the-banking-industry) this article.
+<h1>🧑🎨 DeFi の潜在的なユースケースは何ですか? </h1>
+<h3>DeFi の潜在的なユースケースは何ですか? &lt;a href=&quot;#header-4&quot; id=&quot;header-4&quot;&gt;&lt;/a&gt;</h3>
+<h4>融資 &lt;a href=&quot;#borrowing-and-lending&quot; id=&quot;borrowing-and-lending&quot;&gt;&lt;/a&gt;</h4>
+<p>オープン レンディング プロトコルは、DeFi エコシステムで最も人気のあるアプリケーションの 1 つです。従来の信用システムと比較して、オープン分散型融資には、即時取引決済、担保付きデジタル資産のサポート、信用審査なし、将来の標準化の可能性など、多くの利点があります。 </p>
+<p>融資サービスはパブリック ブロックチェーン上に構築されており、必要な信頼レベルを最小限に抑え、暗号検証方法によって保護されています。ブロックチェーンベースの融資市場は、取引相手のリスクを軽減し、借入コストを削減しながら融資を迅速化し、対象者を効果的に拡大します。 </p>
+<h4>マネー バンキング サービス &lt;a href=&quot;#monetary-banking-services&quot; id=&quot;monetary-banking-services&quot;&gt;&lt;/a&gt;</h4>
+<p>定義上、DeFi は金融アプリケーションであり、通貨銀行サービスは典型的なユースケースです。これらには、<a href="https://academy.binance.com/glossary/stablecoin">ステーブルコイン</a>の発行、住宅ローン融資、保険が含まれます。 </p>
+<p>ブロックチェーン業界が成熟するにつれて、ステーブルコインの作成への注目が高まっています。ステーブルコインは通常、実物資産に固定されたデジタル通貨資産であり、比較的簡単にデジタル転送できます。デジタル通貨の価格は時々激しく変動することがありますが、分散型ステーブルコインは日常使用のデジタル現金として機能し、中央当局なしで発行および監視できます。 </p>
+<p>住宅ローンは高額で、実行までに長い時間がかかります。これは主に多くの仲介業者の介入が必要なためです。スマートコントラクトの出現により、引受手数料と弁護士費用が大幅に削減される可能性があります。 </p>
+<p>ブロックチェーン上の保険は仲介者をスキップし、多くの参加者を通じてリスクを共有できます。サービス品質はそのままに、契約者が支払う保険料が軽減されます。 </p>
+<p>ブロックチェーンとバンキングのトピックの詳細な説明については、<a href="https://academy.binance.com/zh/articles/how-blockchain-technology-will-impact-the-banking を読むことをお勧めします。 -industry">「ブロックチェーン技術が銀行業界に与える影響」</a>この記事。 </p>

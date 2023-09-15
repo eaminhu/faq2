@@ -1,34 +1,20 @@
-# 👩🏫 What role do smart contracts play in DeFi?
-
-&#x20;:clap:&#x20;
-
-### What role do smart contracts play in DeFi? <a href="#header-6" id="header-6"></a>
-
-Most existing and potential decentralized finance applications involve the creation and execution of smart contracts. While regular contracts spell out the relationships between the different entities in the contract through legal terms, smart contracts use computer code.
-
-The terms in a smart contract are written in computer code, and running the code makes them effective. Many business processes that originally required manual supervision can now be executed automatically, ensuring reliability.
-
-Using smart contracts, both parties can reach transactions more conveniently and quickly, and transaction risks are also reduced. On the other hand, smart contracts also bring new risks. Computer code is prone to errors or vulnerabilities that could reveal very important confidential information.
-
-\
-
-
-### What challenges does DeFi face? <a href="#header-7" id="header-7"></a>
-
-* Inefficiency: Blockchains are naturally slow compared to their centralized competitors, which also affects the applications built on them. Developers of DeFi applications need to take these limitations into account and continuously optimize their products.
-* High risk caused by user error: DeFi applications shift responsibility from intermediaries to users, causing trouble for many people. Products are deployed on a blockchain that cannot be tampered with, so it is very difficult to minimize losses caused by user errors through product design.
-* User inexperience: Currently, users have to work extra hard to navigate DeFi applications. In order to become a core element of the global financial system, DeFi applications must bring tangible value to users, causing them to bid farewell to the traditional financial system and move to DeFi applications.
-* Ecosystem Chaos: Finding the best application for a specific use case is extremely difficult, and users must have the ability to find the best solution. The challenge comes not only from building applications, but also from how to integrate users into the huge DeFi ecosystem.
-
-\
-
-
-### What is the difference between DeFi and Open Banking? <a href="#header-8" id="header-8"></a>
-
-Open banking means that the banking system authorizes third-party financial service providers through [API](https://academy.binance.com/glossary/application-programming-interface), allowing them to securely access financial data. In this way, banks and non-bank financial institutions can link accounts and data. Essentially, it can create new products and services within the traditional financial system.
-
-However, the new financial system proposed by DeFi is completely independent of existing infrastructure. Therefore, DeFi is sometimes called “open finance”.
-
-For example, it can securely obtain data from many banks and institutions and manage all traditional financial instruments in the same application.
-
-On the other hand, decentralized finance supports a new financial instrument management model and creates a new way of interaction.
+<h1>👩🏫 DeFi においてスマート コントラクトはどのような役割を果たしますか? </h1>
+<p>&amp;#x20;:拍手:&amp;#x20;</p>
+<h3>スマート コントラクトは DeFi においてどのような役割を果たしますか? &lt;a href=&quot;#header-6&quot; id=&quot;header-6&quot;&gt;&lt;/a&gt;</h3>
+<p>既存および潜在的な分散型金融アプリケーションのほとんどには、<a href="https://academy.binance.com/zh/articles/what-are-smart-contracts">スマート コントラクト</a>の作成と実行が含まれます。通常の契約では、契約内のさまざまなエンティティ間の関係が法律用語によって詳しく説明されますが、スマート コントラクトではコンピューター コードが使用されます。 </p>
+<p>スマート コントラクトの条件はコンピューター コードで記述されており、コードを実行すると有効になります。当初は手動による監視が必要だった多くのビジネス プロセスが自動的に実行できるようになり、信頼性が確保されます。 </p>
+<p>スマート コントラクトを使用すると、双方がより便利かつ迅速に取引を行うことができ、取引リスクも軽減されます。一方で、スマートコントラクトは新たなリスクももたらします。コンピューター コードにはエラーや脆弱性が発生しやすく、非常に重要な機密情報が漏洩する可能性があります。 </p>
+<p>\</p>
+<h3>DeFi はどのような課題に直面していますか? &lt;a href=&quot;#header-7&quot; id=&quot;header-7&quot;&gt;&lt;/a&gt;</h3>
+<ul>
+<li>非効率: ブロックチェーンは一元化された競合他社と比較すると当然遅いため、ブロックチェーン上に構築されたアプリケーションにも影響します。 DeFi アプリケーションの開発者は、これらの制限を考慮し、製品を継続的に最適化する必要があります。 </li>
+<li>ユーザーのエラーによって引き起こされる高いリスク: DeFi アプリケーションは責任を仲介者からユーザーに移し、多くの人々にトラブルを引き起こしています。製品は改ざんできないブロックチェーン上に展開されるため、製品設計を通じてユーザーのエラーによって引き起こされる損失を最小限に抑えることは非常に困難です。 </li>
+<li>ユーザーの経験不足: 現在、ユーザーは DeFi アプリケーションを操作するために非常に苦労する必要があります。世界的な金融システムの中核となるためには、DeFi アプリケーションがユーザーに具体的な価値をもたらし、ユーザーが従来の金融システムに別れを告げて DeFi アプリケーションに移行する必要があります。 </li>
+<li>エコシステム カオス: 特定のユースケースに最適なアプリケーションを見つけることは非常に困難であり、ユーザーには最適なソリューションを見つける能力が必要です。課題はアプリケーションの構築だけでなく、ユーザーを巨大な DeFi エコシステムに統合する方法からも生じます。 </li>
+</ul>
+<p>\</p>
+<h3>DeFi とオープン バンキングの違いは何ですか? &lt;a href=&quot;#header-8&quot; id=&quot;header-8&quot;&gt;&lt;/a&gt;</h3>
+<p>オープン バンキングとは、銀行システムが <a href="https://academy.binance.com/glossary/application-programming-interface">API</a> を通じてサードパーティの金融サービス プロバイダーを承認して、それらのサービスを許可することを意味します。財務データへの安全なアクセス。このようにして、銀行とノンバンク金融機関は口座とデータをリンクできます。基本的に、従来の金融システム内で新しい製品やサービスを生み出すことができます。 </p>
+<p>しかし、DeFi が提案する新しい金融システムは、既存のインフラストラクチャから完全に独立しています。そのため、DeFiは「オープンファイナンス」と呼ばれることもあります。 </p>
+<p>たとえば、多くの銀行や機関からデータを安全に取得し、すべての従来の金融商品を同じアプリケーションで管理できます。 </p>
+<p>一方、分散型金融は新しい金融商品管理モデルをサポートし、新しい相互作用の方法を生み出します。 </p>
