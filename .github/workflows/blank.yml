@@ -22,10 +22,11 @@ jobs:
 
     - name: Translate files
       run: |
+        target_language="ru"  # 定义目标语言变量
         for file in $(find zh-CN -type f -name "*.md"); do
-          target_dir="en-US${file#zh-CN}"
+          target_dir="${target_language}${file#zh-CN}"
           mkdir -p $(dirname "$target_dir")
-          python translate.py "$file" "$target_dir"
+          python translate.py "$file" "$target_dir" "$target_language"
         done
     - name: list files
       run: ls
