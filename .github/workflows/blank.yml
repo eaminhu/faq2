@@ -23,12 +23,11 @@ jobs:
 
     - name: Translate files
       run: |
-        source_lang = 'zh-CN'
         target_lang = 'ru'
-        for file in $(find source_lang -type f -name "*.md"); do
-          target_dir="$target_lang${file#$source_lang}"
+        for file in $(find zh-CN -type f -name "*.md"); do
+          target_dir="$target_lang${file#zh-CN}"
           mkdir -p $(dirname "$target_dir")
-          python translate.py "$file" "$target_dir" "$source_lang" "$target_lang"
+          python translate.py "$file" "$target_dir" "$target_lang"
         done
     - name: list files
       run: ls
