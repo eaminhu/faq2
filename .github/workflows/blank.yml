@@ -19,14 +19,13 @@ jobs:
 
     - name: Install dependencies
       run: pip install deep-translator
-           pip install mistune
 
     - name: Translate files
       run: |
         for file in $(find zh-CN -type f -name "*.md"); do
           target_dir="en-US${file#zh-CN}"
           mkdir -p $(dirname "$target_dir")
-          python translate.py "$file" "$target_dir" "en"
+          python translate.py "$file" "$target_dir"
         done
     - name: list files
       run: ls
