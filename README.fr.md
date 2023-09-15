@@ -23,4 +23,4 @@ La technologie blockchain est également souvent utilisée pour l’émission et
 
 Par exemple, les plateformes d’émission de jetons de sécurité fournissent aux émetteurs des outils et des ressources pour prendre en charge le lancement de titres tokenisés avec des paramètres personnalisables dans la blockchain.
 
-其他项目则支持创建衍生品、合成资产、去中心化预测市场等。
+D'autres projets soutiennent la création de produits dérivés, d'actifs synthétiques, de marchés de prédiction décentralisés, etc.
