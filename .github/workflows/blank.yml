@@ -1,0 +1,29 @@
+name: Translate zh-CN to en-US
+on:
+  push:
+    branches:
+      - master # 修改为你的默认分支名称
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: pip install deep-translator
+
+    - name: Translate files
+      run: |
+        for file in zh-CN/*.md; do
+          filename=$(basename "$file")
+          target_file="en-US/${filename}"
+          python translate.py "$file" "$target_file"
+        done
