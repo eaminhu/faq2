@@ -22,10 +22,6 @@
 
 ***
 
-### 什么是 Markdown
-
-[Markdown](https://nicelinks.site/tags/Markdown/?utm\_source=markdown.lovejade.cn) 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号，以最小的输入代价，生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，**粗体**、_斜体_ 或者[超文本链接](https://vue-cli3.lovejade.cn/explore/)，更棒的是，它还可以：
-
 ***
 
 #### 1. 制作待办事宜 `Todo` 列表
@@ -122,68 +118,7 @@ gantt
       "color": "#f2f2f2"
     }
   },
-  "tooltip": {
-    "trigger": "item",
-    "formatter": "{a} <br/>{b} : {c} ({d}%)"
-  },
-  "legend": {
-    "orient": "vertical",
-    "left": "left",
-    "data": [
-      "搜索引擎",
-      "直接访问",
-      "推荐",
-      "其他",
-      "社交平台"
-    ],
-    "textStyle": {
-      "color": "#f2f2f2"
-    }
-  },
-  "series": [
-    {
-      "name": "访问来源",
-      "type": "pie",
-      "radius": "55%",
-      "center": [
-        "50%",
-        "60%"
-      ],
-      "data": [
-        {
-          "value": 10440,
-          "name": "搜索引擎",
-          "itemStyle": {
-            "color": "#ef4136"
-          }
-        },
-        {
-          "value": 4770,
-          "name": "直接访问"
-        },
-        {
-          "value": 2430,
-          "name": "推荐"
-        },
-        {
-          "value": 342,
-          "name": "其他"
-        },
-        {
-          "value": 18,
-          "name": "社交平台"
-        }
-      ],
-      "itemStyle": {
-        "emphasis": {
-          "shadowBlur": 10,
-          "shadowOffsetX": 0,
-          "shadowColor": "rgba(0, 0, 0, 0.5)"
-        }
-      }
-    }
-  ]
-}
+  }
 ```
 
 > **备注**：上述 echarts 图表📈，其数据，须使用严格的 **JSON** 格式；您可使用 JSON.stringify(data)，将对象传换从而得标准数据，即可正常使用。
@@ -196,10 +131,6 @@ gantt
 | 晚晴幽草轩 | [https://jeffjade.com](https://jeffjade.com/??utm\_source=markdown.lovejade.cn)               | 2014-09-20 |
 | 静轩之别苑 | [http://quickapp.lovejade.cn](http://quickapp.lovejade.cn/??utm\_source=markdown.lovejade.cn) | 2019-01-12 |
 
-#### 9. 更详细语法说明
-
-想要查看更详细的语法说明，可以参考这份 [Markdown 资源列表](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/markdown-tutorial.md)，涵盖入门至进阶教程，以及资源、平台等信息，能让您对她有更深的认知。
-
-总而言之，不同于其它_所见即所得_的编辑器：你只需使用键盘专注于书写文本内容，就可以生成印刷级的排版格式，省却在键盘和工具栏之间来回切换，调整内容和格式的麻烦。**Markdown 在流畅的书写和印刷级的阅读体验之间找到了平衡。** 目前它已经成为世界上最大的技术分享网站 `GitHub` 和 技术问答网站 `StackOverFlow` 的御用书写格式，而且越发流行，正在在向各行业渗透。
+####
 
 最新更新于 2019.08.21
