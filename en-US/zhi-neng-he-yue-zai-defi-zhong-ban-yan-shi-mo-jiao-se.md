@@ -1,7 +1,7 @@
 <h1>👩🏫 What role do smart contracts play in DeFi? </h1>
 <p>&amp;#x20;:clap:&amp;#x20;</p>
 <h3>What role do smart contracts play in DeFi? &lt;a href=&quot;#header-6&quot; id=&quot;header-6&quot;&gt;&lt;/a&gt;</h3>
-<p>Most existing and potential decentralized finance applications involve <a href="https://academy.binance.com/zh/articles/what-are-smart-contracts">smart contracts</ a>Creation and execution. While regular contracts spell out the relationships between the different entities in the contract through legalese, smart contracts use computer code. </p>
+<p>Most existing and potential decentralized finance applications involve <a href="https://academy.binance.com/zh/articles/what-are-smart-contracts">smart contracts</ a>Creation and execution. While regular contracts spell out the relationships between the different entities in the contract through legal terms, smart contracts use computer code. </p>
 <p>The terms in a smart contract are written in computer code, and running the code makes them effective. Many business processes that originally required manual supervision can now be executed automatically, ensuring reliability. </p>
 <p>Using smart contracts, both parties can reach transactions more conveniently and quickly, and transaction risks are also reduced. On the other hand, smart contracts also bring new risks. Computer code is prone to errors or vulnerabilities that could reveal very important confidential information. </p>
 <p>\</p>
