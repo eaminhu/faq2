@@ -1,12 +1,12 @@
-DeFi有哪些潜在用例？
-借贷
-开放借贷协议是DeFi生态体系中最受欢迎的应用程序之一。与传统信用体系相比，开放的去中心化借贷具备诸多优势，其中包括即时交易结算、支持抵押数字资产、无信用审查以及在未来可能实现标准化。
+Quels sont les cas d’utilisation potentiels de DeFi ?
+prêt
+Le protocole de prêt ouvert est l'une des applications les plus populaires de l'écosystème DeFi. Par rapport aux systèmes de crédit traditionnels, les prêts décentralisés ouverts présentent de nombreux avantages, notamment le règlement instantané des transactions, la prise en charge des actifs numériques garantis, l'absence d'examen du crédit et une éventuelle normalisation à l'avenir.
 
 Les services de prêt sont construits sur une blockchain publique, minimisant le niveau de confiance requis et protégés par des méthodes de vérification cryptographique. Le marché des prêts basé sur la blockchain réduit les risques de contrepartie, accélère les prêts tout en réduisant les coûts d'emprunt et élargit efficacement l'audience.
 
-货币银行服务
-从定义上来说，DeFi属于金融应用程序，货币银行服务就是一项典型用例。其中包括稳定币的发行、抵押贷款与保险。
-随着区块链产业日趋成熟，稳定币的创建也愈发受到关注。稳定币通常是与真实资产挂钩的数字货币资产，可以相对容易地进行数字化转账。数字货币的价格有时会剧烈波动，但去中心化稳定币可作为日常使用的数字现金，发行和监控均可摆脱中央机构。
+services bancaires monétaires
+Par définition, DeFi est une application financière et les services bancaires en devises sont un cas d'utilisation typique. Ceux-ci incluent l’émission de pièces stables, de prêts hypothécaires et d’assurances.
+À mesure que l’industrie de la blockchain mûrit, la création de pièces stables attire de plus en plus l’attention. Les Stablecoins sont généralement des actifs en monnaie numérique liés à des actifs réels qui peuvent être transférés numériquement avec une relative facilité. Le prix des monnaies numériques peut parfois fluctuer énormément, mais les pièces stables décentralisées peuvent servir de monnaie numérique pour un usage quotidien, avec une émission et une surveillance gratuites par les agences centrales.
 
 Les prêts hypothécaires sont chers et prennent beaucoup de temps à être remboursés, principalement parce qu’ils nécessitent l’intervention de nombreux intermédiaires. Avec l’avènement des contrats intelligents, les frais de souscription et juridiques pourraient être considérablement réduits.
 
