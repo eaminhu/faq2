@@ -1,13 +1,13 @@
-# Table of contents
+# Оглавление
 
-* [What is Decentralized Finance (DeFi) Big Brother](README.md)
+* [Что такое децентрализованные финансы (DeFi) «Большой брат»] (README.md)
 
-## 😁 How to trade
+## 😁 Как торговать
 
-* [👭 What are the main advantages of DeFi? ](ru-he-jiao-yi/defi-de-zhu-yao-you-shi-shi-shi-mo.md)
-* [🧑🎨 What are the potential use cases of DeFi? ](ru-he-jiao-yi/defi-you-na-xie-qian-zai-yong-li.md)
+* [👭 Каковы основные преимущества DeFi? ](ru-he-jiao-yi/defi-de-zhu-yao-you-shi-shi-shi-mo.md)
+* [🧑🎨 Каковы потенциальные варианты использования DeFi? ](ru-he-jiao-yi/defi-you-na-xie-qian-zai-yong-li.md)
 
 ***
 
-* [👩🏫 What role do smart contracts play in DeFi? ](zhi-neng-he-yue-zai-defi-zhong-ban-yan-shi-mo-jiao-se.md)
-* [What are the potential use cases for DeFi? ](defi-you-na-xie-qian-zai-yong-li.md)
+* [👩🏫 Какую роль смарт-контракты играют в DeFi? ](чжи-нэн-хе-юэ-цзай-дефи-чжун-бан-ян-ши-мо-цзяо-se.md)
+* [Каковы потенциальные варианты использования DeFi? ](defi-you-na-xie-qian-zai-yong-li.md)
