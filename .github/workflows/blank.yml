@@ -17,8 +17,9 @@ jobs:
       with:
         python-version: 3.x
 
-    - name: Install dependencies
+    - name: Install dependencies & mistune
       run: pip install deep-translator
+           pip install mistune
 
     - name: Translate files
       run: |
