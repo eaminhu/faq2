@@ -22,7 +22,7 @@ jobs:
 
     - name: Translate files
       run: |
-        target_language="ru"  # 定义目标语言变量
+        target_language="fr"  # 定义目标语言变量
         for file in $(find zh-CN -type f -name "*.md"); do
           target_dir="${target_language}${file#zh-CN}"
           mkdir -p $(dirname "$target_dir")
