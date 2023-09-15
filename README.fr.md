@@ -2,7 +2,7 @@ Quels sont les cas d’utilisation potentiels de DeFi ?
 prêt
 Le protocole de prêt ouvert est l'une des applications les plus populaires de l'écosystème DeFi. Par rapport aux systèmes de crédit traditionnels, les prêts décentralisés ouverts présentent de nombreux avantages, notamment le règlement instantané des transactions, la prise en charge des actifs numériques garantis, l'absence d'examen du crédit et une éventuelle normalisation à l'avenir.
 
-Les services de prêt sont construits sur une blockchain publique, minimisant le niveau de confiance requis et protégés par des méthodes de vérification cryptographique. Le marché des prêts basé sur la blockchain réduit les risques de contrepartie, accélère les prêts tout en réduisant les coûts d'emprunt et élargit efficacement l'audience.
+借贷服务构建于公共区块链，最大程度降低了所需信任度，同时受到密码学验证方法的保护。基于区块链的借贷市场降低交易对手风险，在削减借贷成本的同时，加快了放款速度，有效扩大了受众群体。
 
 services bancaires monétaires
 Par définition, DeFi est une application financière et les services bancaires en devises sont un cas d'utilisation typique. Ceux-ci incluent l’émission de pièces stables, de prêts hypothécaires et d’assurances.
