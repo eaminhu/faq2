@@ -1,6 +1,6 @@
 # Table of contents
 
-* [什么是去中心化金融(DeFi)？](README.md)
+* [什么是去中心化金融(DeFi)大哥](README.md)
 
 ## 😁 如何交易
 
