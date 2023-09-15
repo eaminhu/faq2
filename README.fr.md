@@ -1,8 +1,8 @@
-DeFi有哪些潜在用例？
-借贷
-开放借贷协议是DeFi生态体系中最受欢迎的应用程序之一。与传统信用体系相比，开放的去中心化借贷具备诸多优势，其中包括即时交易结算、支持抵押数字资产、无信用审查以及在未来可能实现标准化。
+Quels sont les cas d’utilisation potentiels de DeFi ?
+prêt
+Le protocole de prêt ouvert est l'une des applications les plus populaires de l'écosystème DeFi. Par rapport au système de crédit traditionnel, les prêts décentralisés ouverts présentent de nombreux avantages, notamment le règlement instantané des transactions, la prise en charge des actifs numériques garantis, l'absence d'examen du crédit et la possibilité d'une standardisation à l'avenir.
 
-借贷服务构建于公共区块链，最大程度降低了所需信任度，同时受到密码学验证方法的保护。基于区块链的借贷市场降低交易对手风险，在削减借贷成本的同时，加快了放款速度，有效扩大了受众群体。
+Les services de prêt sont construits sur une blockchain publique, minimisant le niveau de confiance requis et protégés par des méthodes de vérification cryptographique. Le marché des prêts basé sur la blockchain réduit les risques de contrepartie, accélère les prêts tout en réduisant les coûts d'emprunt et élargit efficacement l'audience.
 
 services bancaires monétaires
 Par définition, DeFi est une application financière et les services bancaires en devises sont un cas d'utilisation typique. Ceux-ci incluent l’émission de pièces stables, de prêts hypothécaires et d’assurances.
@@ -19,8 +19,8 @@ De telles applications peuvent être difficiles à évaluer et appartiennent au 
 L’application DeFi la plus importante parmi elles est sans doute l’échange décentralisé (DEX). Grâce à ces plateformes, les utilisateurs peuvent échanger des actifs numériques directement sans avoir besoin de détenir des fonds via un intermédiaire de confiance (plateforme de trading). À l'aide de contrats intelligents, différents utilisateurs peuvent effectuer des transactions directement via leur portefeuille personnel.
 Les échanges décentralisés nécessitent moins de maintenance, les frais de transaction sont donc bien inférieurs à ceux des échanges centralisés.
 
-区块链技术也经常用于各种传统金融工具的发行与赋权。这些应用程序以去中心化方式运作，无需托管方介入并彻底消除了单点故障。
+La technologie blockchain est également souvent utilisée pour l’émission et l’autonomisation de divers instruments financiers traditionnels. Ces applications fonctionnent de manière décentralisée, éliminant ainsi le besoin de dépositaires et éliminant complètement les points de défaillance uniques.
 
 Par exemple, les plateformes d’émission de jetons de sécurité fournissent aux émetteurs des outils et des ressources pour prendre en charge le lancement de titres tokenisés avec des paramètres personnalisables dans la blockchain.
 
-D'autres projets soutiennent la création de produits dérivés, d'actifs synthétiques, de marchés de prédiction décentralisés, etc.
+其他项目则支持创建衍生品、合成资产、去中心化预测市场等。
