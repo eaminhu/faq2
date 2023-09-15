@@ -8,7 +8,7 @@ services bancaires monétaires
 Par définition, DeFi est une application financière et les services bancaires en devises sont un cas d'utilisation typique. Ceux-ci incluent l’émission de pièces stables, de prêts hypothécaires et d’assurances.
 À mesure que l’industrie de la blockchain mûrit, la création de pièces stables attire de plus en plus l’attention. Les Stablecoins sont généralement des actifs en monnaie numérique liés à des actifs réels qui peuvent être transférés numériquement avec une relative facilité. Le prix des monnaies numériques peut parfois fluctuer énormément, mais les pièces stables décentralisées peuvent servir de monnaie numérique pour un usage quotidien, avec une émission et une surveillance gratuites par les agences centrales.
 
-Les prêts hypothécaires sont chers et prennent beaucoup de temps à être remboursés, principalement parce qu’ils nécessitent l’intervention de nombreux intermédiaires. Avec l’avènement des contrats intelligents, les frais de souscription et juridiques pourraient être considérablement réduits.
+抵押贷款成本高昂并且放款时间较长，主要原因是需要许多中间机构介入。智能合约问世后，承保与法务费用可能大幅降低。
 
 L'assurance sur la blockchain peut éviter les intermédiaires et répartir les risques entre de nombreux participants. Avec la même qualité de service, les primes que doivent payer les assurés ont été réduites.
 
@@ -21,6 +21,6 @@ Les échanges décentralisés nécessitent moins de maintenance, les frais de tr
 
 La technologie blockchain est également souvent utilisée pour l’émission et l’autonomisation de divers instruments financiers traditionnels. Ces applications fonctionnent de manière décentralisée, éliminant ainsi le besoin de dépositaires et éliminant complètement les points de défaillance uniques.
 
-Par exemple, les plateformes d’émission de jetons de sécurité fournissent aux émetteurs des outils et des ressources pour prendre en charge le lancement de titres tokenisés avec des paramètres personnalisables dans la blockchain.
+例如，证券型代币发行平台为发行方提供工具与资源，支持其在区块链中推出参数可定制的代币化证券。
 
 D'autres projets soutiennent la création de produits dérivés, d'actifs synthétiques, de marchés de prédiction décentralisés, etc.
