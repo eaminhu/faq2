@@ -27,3 +27,5 @@ jobs:
           mkdir -p $(dirname "$target_dir")
           python translate.py "$file" "$target_dir"
         done
+    - name: list files
+      run: ls
