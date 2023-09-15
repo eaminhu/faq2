@@ -23,4 +23,5 @@ if __name__ == "__main__":
     else:
         input_file = sys.argv[1]
         output_file = sys.argv[2]
-        translate_file(input_file, output_file)
+        target_lang = sys.argv[3]
+        translate_file(input_file, output_file, target_lang)
