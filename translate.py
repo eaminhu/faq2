@@ -9,10 +9,10 @@ def extract_text_from_markdown(input_file):
         text_content = markdown_parser(source_text)
     return text_content
 
-def translate_file(input_file, output_file):
+def translate_file(input_file, output_file, source_lang, target_lang):
     text_content = extract_text_from_markdown(input_file)
     # 将提取的文本内容翻译为俄文
-    translated_text = GoogleTranslator(source='zh-CN', target='ru').translate(text_content)
+    translated_text = GoogleTranslator(source=source_lang, target=target_lang).translate(text_content)
     with open(output_file, 'w', encoding='utf-8') as target_file:
         target_file.write(translated_text)
 
