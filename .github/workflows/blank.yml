@@ -29,3 +29,5 @@ jobs:
         done
     - name: list files
       run: ls
+    - name: commit 
+      run: git add .; git commit -m 'commit translate files'; git push;
