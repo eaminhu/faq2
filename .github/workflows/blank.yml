@@ -39,6 +39,7 @@ jobs:
 
     - name: Make changes and commit
       run: |
+        git pull origin master
         git add .
         git commit -m "Add Translate files to folder"
         git push
