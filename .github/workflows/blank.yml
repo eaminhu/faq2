@@ -19,6 +19,7 @@ jobs:
 
     - name: Install dependencies
       run: pip install deep-translator
+           pip install mistune
 
     - name: Translate files
       run: |
