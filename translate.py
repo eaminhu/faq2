@@ -5,7 +5,7 @@ def extract_text_from_markdown(input_file):
     with open(input_file, 'r', encoding='utf-8') as source_file:
         source_text = source_file.read()
         # 使用mistune解析Markdown，提取文本内容
-        markdown_parser = mistune.create()
+        markdown_parser = mistune.create_markdown()
         text_content = markdown_parser(source_text)
     return text_content
 
