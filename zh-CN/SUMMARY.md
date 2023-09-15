@@ -1,12 +1,12 @@
 # Table of contents
 
-* [我们是谁？？](README.md)
+* [什么是去中心化金融(DeFi)？](README.md)
 
 ## 😁 如何交易
 
-* [👭 问题1](ru-he-jiao-yi/wen-ti-1.md)
-* [🧑🎨 问题2](ru-he-jiao-yi/wen-ti-2.md)
+* [👭 DeFi的主要优势是什么？](ru-he-jiao-yi/defi-de-zhu-yao-you-shi-shi-shi-mo.md)
+* [🧑🎨 DeFi有哪些潜在用例？](ru-he-jiao-yi/defi-you-na-xie-qian-zai-yong-li.md)
 
 ***
 
-* [👩🏫 问题3](wen-ti-3.md)
+* [👩🏫 智能合约在DeFi中扮演什么角色？](zhi-neng-he-yue-zai-defi-zhong-ban-yan-shi-mo-jiao-se.md)
