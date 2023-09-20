@@ -1,4 +1,4 @@
-name: Translate zh-CN to en-US
+name: Translate
 on:
   push:
     branches:
@@ -18,23 +18,30 @@ jobs:
         python-version: 3.x
 
     - name: Install dependencies
-      run: pip install deep-translator
-           pip install mistune
+      run: pip install markdown deep-translator
 
     - name: Translate files
       run: |
-        for file in $(find en-US -type f -name "*.md"); do
-          target_dir="ja${file#en-US}"
-          mkdir -p $(dirname "$target_dir")
-          python translate.py "$file" "$target_dir" "ja"
+        # 定义要支持的语言组合
+        languages=("en:zh-CN,en:ar")
+        for lang_pair in "${languages[@]}"; do
+            source_language="${lang_pair%%:*}"
+            target_language="${lang_pair#*:}"
+
+            for file in $(find "$source_language" -type f -name "*.md"); do
+                target_dir="$target_language${file#$source_language}"
+                mkdir -p "$(dirname "$target_dir")"
+                python translate.py "$file" "$target_dir" "$source_language" "$target_language"
+            done
         done
+
     - name: list files
       run: ls
-      
+
     - name: Configure Git
       run: |
-        git config user.name "Your Name"
-        git config user.email "your.email@example.com"
+        git config user.name "hm"
+        git config user.email "ming@cpglobalinnovation.com"
 
     - name: Make changes and commit
       run: |
